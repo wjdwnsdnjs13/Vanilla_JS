@@ -1,0 +1,62 @@
+body {
+	background-color: #E3E9FF;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+}
+h1 {
+	text-align: center;
+	background-color: #AF7EEB;
+	color: #ffffff;
+	position: relative;
+	border-radius: 25px;
+}
+#content {
+	top: 10%;
+	left: 30%;
+	width: 40%;
+	height: 70%;
+	position: absolute;	
+}
+#create {
+	background-color: #AF7EEB;
+	width: 50%;
+	left: 25%;
+	position: relative;
+	font-size: 18px;
+	top: 50%;
+	border-radius: 30px;
+}
+form {
+	background-color: #ffffff;
+	height: 70%;
+	border-radius: 25px;
+}
+li {
+	text-align: left;
+	list-style: none;
+	float: left;
+	font-size: 15px;
+}
+ul {
+	padding: 0px;
+}
+img {
+	width: 10px;
+	height: 10px;
+	float:left;
+	display: none;
+}
+.check {
+	float: left;
+	border-radius: 10px;
+}
+.new {
+	background-color: #AF7EEB;
+	color: #ffffff;
+	width: 30%;
+}
+#new_task, button{
+	display: inline;
+	float: left;
+}
