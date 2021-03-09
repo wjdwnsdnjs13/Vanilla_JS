@@ -1,3 +1,5 @@
+// 실행 시 오류가 발생함.
+// 여러 가지 리스트를 생성하는 것에 대한 공부를 해야 할 듯.
 const toDoForm = document.querySelector(".toDoForm");
 const toDoLi = document.querySelector(".new_task");
 function gibon() {
